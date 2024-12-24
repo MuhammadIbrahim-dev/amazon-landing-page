@@ -1,6 +1,6 @@
 # Amazon landing Page
  ## see design
- [view](amazonlandingpage.surge.sh)
+ [view](https://amazonlandingpage.surge.sh/)
  # social links
 github
 https://www.github.com/MuhammadIbrahim-dev
